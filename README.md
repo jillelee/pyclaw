@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/clawpack/pyclaw.svg?branch=master)](https://travis-ci.org/clawpack/pyclaw)
 [![Coverage Status](https://img.shields.io/coveralls/clawpack/pyclaw.svg)](https://coveralls.io/r/clawpack/pyclaw?branch=master)
 
-[![version status](https://pypip.in/v/clawpack/badge.png)](https://pypi.python.org/pypi/clawpack)
-[![downloads](https://pypip.in/d/clawpack/badge.png)](https://pypi.python.org/pypi/clawpack)
+[![PyPI version](https://badge.fury.io/py/clawpack.svg)](https://badge.fury.io/py/clawpack)
+
 
 Quick start:
 
@@ -20,5 +20,10 @@ of Clawpack and SharpClaw.
 It has been designed with easy extensibility, performance, and exploration in mind.
 PyClaw also includes a scalable parallel implementation of Clawpack using PETSc.
 
+Full documentation is available at http://clawpack.org/pyclaw/.
+
 You can get the latest development version of PyClaw from
 http://github.com/clawpack/.
+
+If you use PyClaw in research that leads to publication, please
+[cite PyClaw](http://www.clawpack.org/pyclaw/index.html#citing).
